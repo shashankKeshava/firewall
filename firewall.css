@@ -1,0 +1,14 @@
+.firewall-content {
+    text-align: center;
+    border: 3px solid black;
+    border-width: 16px;
+    background-color: #7fffd4;
+    color: #ff0000;
+    position: relative;
+    width: 294px;
+    left: 40%;
+}
+
+.firewall-postScript {
+    font-style: italic;
+}
